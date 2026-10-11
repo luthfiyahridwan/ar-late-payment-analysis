@@ -1,0 +1,1 @@
+DESCRIBE SELECT * FROM 'data/WA_Fn-UseC_-Accounts-Receivable.csv';
